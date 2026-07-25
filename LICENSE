@@ -1,0 +1,25 @@
+Repository Documentation License and Third-Party Asset Notice
+
+Copyright (c) 2026 Musa
+
+The original README, usage guide, repository cover, and governance documentation
+authored specifically for this repository may be used, copied, modified, merged,
+published, and distributed under the terms of the MIT License, provided that the
+copyright notice and this permission notice are retained.
+
+THE DOCUMENTATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+Third-Party Font Files
+
+The `.FON` binary files in this repository may originate from legacy operating
+systems, software packages, vendors, or other third parties. Copyright,
+trademark, redistribution, installation, and usage rights for those font files
+remain with their respective owners.
+
+No ownership claim or new license is granted for third-party font binaries by
+this repository. Before copying, installing, packaging, publishing, or using a
+font file, independently verify its source, authenticity, compatibility, and
+license terms. Remove or report any file that appears unauthorised, corrupted,
+mislabelled, or unsafe.
